@@ -1,0 +1,16 @@
+.App-header {
+  box-sizing: border-box;
+  background-color: #39bdb2;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+thead {
+  font-weight: bold;
+}
+
+.toolbar,
+.results {
+  padding: 10px;
+}
